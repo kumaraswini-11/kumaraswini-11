@@ -13,13 +13,13 @@
 I'm a passionate **Full Stack Developer** focused on creating scalable and user-friendly web applications. I thrive on solving complex problems and continuously exploring new technologies.
 
 🔭 **Current Project**:<br/>
-Developing [DevOverflow](https://github.com/kumaraswini-11/dev-overflow-nextjs15), a Next.js-based Q&A platform designed to connect developers, share knowledge, and foster a thriving tech community, inspired by Stack Overflow.
+    Developing [DevOverflow](https://github.com/kumaraswini-11/dev-overflow-nextjs15), a Next.js-based Q&A platform designed to connect developers, share knowledge, and foster a thriving tech community, inspired by Stack Overflow.
 
 🌱 **Learning Focus**:<br/>
-Cloud-based solutions on AWS and implementing Microservices Architecture.
+    Cloud-based solutions on AWS and implementing Microservices Architecture.
 
 💚 **Collaboration Interests**:<br/>
-Projects that solve real-world problems and contribute to open source.
+    Projects that solve real-world problems and contribute to open source.
 
 ⚡ **Fun Fact**:<br/>
 I’m a fitness enthusiast.
