@@ -13,7 +13,7 @@
 I'm a passionate **Full Stack Developer** focused on creating scalable and user-friendly web applications. I thrive on solving complex problems and continuously exploring new technologies.
 
 - 🔭 **Current Project**:<br/>
-  Developing [DevOverflow](https://github.com/kumaraswini-11/dev-overflow-nextjs15), a Next.js-based Q&A platform designed to connect developers, share knowledge, and foster a thriving tech community, inspired by Stack Overflow.
+  Developing [Flux Board](https://github.com/kumaraswini-11/flux-board), a Next.js-based  SaaS with real-time Kanban, workspaces, backlogs, analytics, RBAC & Pro plans, etc., inspired by JIRA.
 
 - 🌱 **Learning Focus**:<br/>
   Cloud-based solutions on AWS and implementing Microservices Architecture.
